@@ -175,8 +175,6 @@ how to create a microservices
 Second Round:
 ==============
 
-==========
-
 how microservices communicate to another?
 
 API gateway
