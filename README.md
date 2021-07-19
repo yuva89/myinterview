@@ -326,3 +326,61 @@ Spring actuator
 
 
 
+Fiserv Questions:
+===================
+
+Java 8 features
+
+convert list to map using streams
+
+hashmap internally works  & how index calculates
+
+spring and spring boot differences
+
+controller and rest controller diff
+
+how to create api for user what are the methods need to use
+
+beans scope
+
+autowiring
+
+types of beans creating
+
+sleep & wait
+
+concurrency hashmap
+
+executor
+
+how to create immutable class in java
+
+can use try alone 
+
+can use try and finally 
+
+can use try,catch finally
+
+try i=1 some exp catch i=10 finally i=100 what will be the output
+
+microservices architecture
+
+Domain driven design
+
+service discovery config
+
+kubernetes
+
+dokcorization
+
+query for third largest salary
+
+apachekafka uses
+
+apache zookeeper uses
+
+OAuth
+
+JWT
+
+CQRS
